@@ -51,6 +51,46 @@ performs task2 and task3 and returns the zip with two files respectively
 example - http://127.0.0.1:8000/data/api2
 
 
+## Live Demo
+
+### for uploading the data:
+
+https://elucidata-sjha2048.herokuapp.com/upload/
+
+ps: the upload can be extremely slow due to heroku free tier limits 
+
+### Task 1
+
+for demo purpose I have already uploaded the dataset and the processed output can be obtained at:
+
+https://elucidata-sjha2048.herokuapp.com/data/api1
+
+if you wish to upload your own data then change the url as below
+https://elucidata-sjha2048.herokuapp.com/<file_name>/api1
+
+zipfile containing the processed output will be downloaded 
+
+### Task 2 & 3
+
+processed output can be obtained at:
+
+https://elucidata-sjha2048.herokuapp.com/data/api2
+
+if you wish to upload your own data then change the url as below
+https://elucidata-sjha2048.herokuapp.com/<file_name>/api2
+
+
+## Todo
+
+- [x] API for uploading file
+- [x] API for TASK 1
+- [x] API for TASK 2
+- [x] Documentation 
+- [x] Heroku Deployment 
+- [ ] Functional Tests
+
+
+
 
 
 
