@@ -25,7 +25,7 @@ SECRET_KEY = 'lts^9czq*828lzof1m3k@8#tnx*w-*_o^!&vrtiv-b6@c*rl2y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'elucidata-sjha2048.herokuapp.com']
+ALLOWED_HOSTS = ['0.0.0.0', 'elucidata-sjha2048.herokuapp.com','127.0.0.1']
 
 
 # Application definition
