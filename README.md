@@ -88,6 +88,8 @@ https://elucidata-sjha2048.herokuapp.com/data/api2
 if you wish to upload your own data then change the url as below
 https://elucidata-sjha2048.herokuapp.com/<file_name>/api2
 
+#### Code for these endpoints can be found at [views.py](https://github.com/sjha2048/elucidata_sjha2048/blob/master/uploadprocess/views.py)
+
 
 ## Todo
 
