@@ -1,4 +1,12 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![ViewCount](https://views.whatilearened.today/views/github/sjha2048/elucidata_sjha2048.svg)
+
+
+
+
 # Assignment for Elucidata 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://elucidata-sjha2048.herokuapp.com/upload)
+
 
 ## Tasks 
 
@@ -44,7 +52,7 @@ performs task1 and returns the zip with three child datasets
 
 example - http://127.0.0.1:8000/data/api1
 
-### ```/<file_name>/api2
+### ```/<file_name>/api2```
 
 performs task2 and task3 and returns the zip with two files respectively 
 
